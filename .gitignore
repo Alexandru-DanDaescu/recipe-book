@@ -21,8 +21,8 @@ target/
 *.iml
 *.ipr
 *mvnw
-.cmd
-.mvn
+*.cmd
+*.mvn
 
 
 ### NetBeans ###
