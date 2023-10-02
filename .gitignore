@@ -4,8 +4,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 **/src/test
-mvnw
-mvnw.cmd
+
 
 ### STS ###
 .apt_generated
@@ -21,7 +20,9 @@ mvnw.cmd
 *.iws
 *.iml
 *.ipr
-
+*.mvnw
+*.mvnw.cmd
+*.mvn
 
 
 ### NetBeans ###
